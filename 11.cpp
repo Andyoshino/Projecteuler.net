@@ -1,5 +1,4 @@
 #include <iostream>
-#include <time.h>
 using namespace std;
 /*
 Input this into the cmd
